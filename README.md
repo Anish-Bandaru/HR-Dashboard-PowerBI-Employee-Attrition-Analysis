@@ -1,7 +1,7 @@
 # HR Analytics - Employee Performance & Attrition
 
 ## Project Overview
-This project analyzes employee attrition and performance trends using Power BI. The dashboard provides HR professionals with actionable insights into workforce trends, allowing them to make data-driven decisions to reduce attrition and improve employee satisfaction.![image](https://github.com/user-attachments/assets/993533e3-0cdd-49ea-b1e0-b089cdbbe8a3)
+This project analyzes employee attrition and performance trends using Power BI. The dashboard provides HR professionals with actionable insights into workforce trends, allowing them to make data-driven decisions to reduce attrition and improve employee satisfaction.
 
 ![image](https://github.com/user-attachments/assets/ac83f628-1529-4597-a7b3-940ace0df11d)
 
